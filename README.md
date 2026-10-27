@@ -86,4 +86,4 @@ patool
 
 ## License
 
-Specify a license (e.g., MIT) before publishing.
+This project is licensed under the MIT License.
